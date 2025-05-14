@@ -1,11 +1,5 @@
 # Movie-Prediction
 
-Absolutely! Here's a detailed explanation-based `README.md` content tailored for your project, without any code blocks—just plain language for clarity and presentation on GitHub:
-
----
-
-# TMDB 5000 Movie Dataset Analysis and Recommendation System
-
 This project is a data analysis and exploration initiative using the TMDB 5000 Movie Dataset, which is commonly used in movie recommendation system development and exploratory data analysis (EDA). It provides insights into the movie industry's trends and helps build a basic content-based recommendation model.
 
 ---
